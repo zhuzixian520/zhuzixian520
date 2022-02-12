@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Trevor, a ghetto full-stack web developer who codes by PHP、Javascript & Go.
+
+- 🔭 I’m currently working on Shen Zhen City,China
+- 📫 How to reach me: zhuzixian520@126.com
+
 <!--
 **zhuzixian520/zhuzixian520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
