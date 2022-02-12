@@ -3,8 +3,9 @@
 I am Trevor, a ghetto full-stack web developer who codes by PHP、Javascript & Go.
 
 - 🔭 I’m currently working on Shen Zhen City,China
+- 🌱 I’m currently learning Yii3,Golang,Python
 - 📫 How to reach me: zhuzixian520@126.com
-
+- ⚡ Fun fact: Yii, Vue, uniapp, Gin, ...
 <!--
 **zhuzixian520/zhuzixian520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
