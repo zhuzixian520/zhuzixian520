@@ -21,15 +21,9 @@ I am Trevor, a ghetto full-stack web developer who codes by PHP、Javascript & G
 <code><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 <code><img height="32" width="32" src="https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg"></code>
 <code><img height="32" width="32" src="https://avatars.githubusercontent.com/u/96669?s=200&v=4"></code>
-<code>
-   <img height="32" width="32" src="https://raw.githubusercontent.com/meilisearch/meilisearch/main/assets/logo.svg">
-</code>
-<code>
-   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/9928167?s=200&v=4">
-</code>
-<code>
-   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/41836?s=200&v=4">
-</code>
+<code><img height="32" width="32" src="https://raw.githubusercontent.com/meilisearch/meilisearch/main/assets/logo.svg"></code>
+<code><img height="32" width="32" src="https://avatars.githubusercontent.com/u/9928167?s=200&v=4"></code>
+<code><img height="32" width="32" src="https://avatars.githubusercontent.com/u/41836?s=200&v=4"></code>
 
 
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuzixian520&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuzixian520&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)|
