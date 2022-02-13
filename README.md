@@ -6,6 +6,12 @@ I am Trevor, a ghetto full-stack web developer who codes by PHP、Javascript & G
 - 🌱 I’m currently learning Yii3,Golang,Python
 - 📫 How to reach me: zhuzixian520@126.com
 - ⚡ Fun fact: Yii, Vue, uniapp, Gin, ...
+
+Languages and Tools:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuzixian520&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **zhuzixian520/zhuzixian520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
