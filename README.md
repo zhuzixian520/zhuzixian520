@@ -22,14 +22,13 @@ I am Trevor, a ghetto full-stack web developer who codes by PHP、Javascript & G
 <code><img height="32" width="32" src="https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg"></code>
 <code><img height="32" width="32" src="https://avatars.githubusercontent.com/u/96669?s=200&v=4"></code>
 <code>
-  <a href="https://github.com/meilisearch/meilisearch">
-    <img height="32" width="32" src="https://raw.githubusercontent.com/meilisearch/meilisearch/main/assets/logo.svg">
-  </a>
+   <img height="32" width="32" src="https://raw.githubusercontent.com/meilisearch/meilisearch/main/assets/logo.svg">
 </code>
 <code>
-  <a href="https://github.com/sphinx-doc">
-    <img height="32" width="32" src="https://avatars.githubusercontent.com/u/9928167?s=200&v=4">
-  </a>
+   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/9928167?s=200&v=4">
+</code>
+<code>
+   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/41836?s=200&v=4">
 </code>
 
 
