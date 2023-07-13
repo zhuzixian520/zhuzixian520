@@ -38,7 +38,7 @@ I am Trevor, a ghetto full-stack web developer who codes by PHP、Javascript & G
 
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuzixian520&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuzixian520&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)|
 | ------------- | ------------- |
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhuzixian520&" alt="zhuzixian520" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhuzixian520&theme=buefy" alt="zhuzixian520" /></p>
 
 #### Top Repositories
 
