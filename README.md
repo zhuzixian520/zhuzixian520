@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" top='60' alt="GIF" src="https://s3.bmp.ovh/imgs/2023/03/17/2311d950a4bba6fd.gif" width="480"/>
+<img align="right" top='60' alt="GIF" src="https://s3.bmp.ovh/imgs/2023/03/17/2311d950a4bba6fd.gif" width="360"/>
 I am Trevor, a ghetto full-stack web developer who codes by PHP、Javascript & Go.
 
 - 🔭 I’m currently working on Shen Zhen City,China
@@ -46,7 +46,13 @@ I am Trevor, a ghetto full-stack web developer who codes by PHP、Javascript & G
 </a>
 
 #### Visitor number
+![Visitor Count](https://profile-counter.glitch.me/zhuzixian520/count.svg)
+
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhuzixian520&label=Profile%20views&color=0e75b6&style=flat" alt="zhuzixian520" /> </p>
+
+![](https://countrush-prod.azurewebsites.net/l/badge/?repository=zhuzixian520.zhuzixian520)
+-->
 
 <!--
 **zhuzixian520/zhuzixian520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
