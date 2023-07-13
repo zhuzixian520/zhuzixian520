@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img align="right" top='60' alt="GIF" src="https://s3.bmp.ovh/imgs/2023/03/17/2311d950a4bba6fd.gif" width="480"/>
 I am Trevor, a ghetto full-stack web developer who codes by PHP、Javascript & Go.
 
 - 🔭 I’m currently working on Shen Zhen City,China
@@ -44,6 +44,9 @@ I am Trevor, a ghetto full-stack web developer who codes by PHP、Javascript & G
 <a href="https://github.com/zhuzixian520/yii2-meilisearch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhuzixian520&repo=yii2-meilisearch&theme=buefy" />
 </a>
+
+#### Visitor number
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zhuzixian520&label=Profile%20views&color=0e75b6&style=flat" alt="zhuzixian520" /> </p>
 
 <!--
 **zhuzixian520/zhuzixian520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
