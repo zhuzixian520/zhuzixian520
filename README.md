@@ -49,9 +49,9 @@ I am Trevor, a ghetto full-stack web developer who codes by PHP、Javascript & G
 #### Visitor number
 ![Visitor Count](https://profile-counter.glitch.me/zhuzixian520/count.svg)
 
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zhuzixian520&label=Profile%20views&color=0e75b6&style=flat" alt="zhuzixian520" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zhuzixian520&label=Profile%20views&color=0e75b6&style=flat" alt="zhuzixian520" /> </p>
+<!--
 ![](https://countrush-prod.azurewebsites.net/l/badge/?repository=zhuzixian520.zhuzixian520)
 -->
 
